@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><img src="/assets/logo-openhamster.png" alt="{{ site.title | default: site.github.repository_name }}"><!--{{ site.title | default: site.github.repository_name }}--></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!--{% if site.github.is_project_page %}
@@ -27,9 +27,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p>This project is maintained by <a href="https://nowisys.de/">Nowisys IT-Service GmbH</a>.</p>
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
