@@ -13,8 +13,8 @@ Possible use cases of openHAMSTER:
 
 Here are two good reasons for the change concerning our customers:
 
-> A reduction of investment risks for our customers: through the disclosure of the program code, we create transparency which at the same time facilitates the security of the solutions. Now, we are not the only ones to support previous projects and develop related projects.
+- A reduction of investment risks for our customers: through the disclosure of the program code, we create transparency which at the same time facilitates the security of the solutions. Now, we are not the only ones to support previous projects and develop related projects.
 
-> A reduction investment at project start: When projects are introduced, high investments in technology and licenses often have to be realised at the beginning, without any functions being available as required. Oftentimes these must be adapted with additional effort.
+- A reduction investment at project start: When projects are introduced, high investments in technology and licenses often have to be realised at the beginning, without any functions being available as required. Oftentimes these must be adapted with additional effort.
 
-> Since we do not charge any license fees for our core component, the openHAMSTER, there is of course also an impact on our business model. Services become more important and direct us to place an even greater focus on quality.
+Since we do not charge any license fees for our core component, the openHAMSTER, there is of course also an impact on our business model. Services become more important and direct us to place an even greater focus on quality.
